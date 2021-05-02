@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**JonathanFloresPacheco/JonathanFloresPacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🏢 Im working in a Startup TEEB.HEALTH
 🌱 Im developer in Back End with Node.js, .NET, SQL, Mongo
